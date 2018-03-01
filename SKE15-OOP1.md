@@ -2,11 +2,11 @@
 
 | Project Name          | Members  | Category | Project Proposal |
 |-----------------------|----------|----------|------------------|
-| [Brick Breaker](https://github.com/neung123/brick-breaking) | Thanapoom, Pornpavee | Game | [https://goo.gl/uPzZRb](https://goo.gl/uPzZRb) |
-| [Bookshelf](https://github.com/zepalz/Book-Shelf) | Archawin, Triwith | [https://zepalz.github.io/Book-Shelf/](https://zepalz.github.io/Book-Shelf/) |
-| [Chat Application](https://github.com/Gotsira/chatapplication) | Sirasath, Issaree | [https://gotsira.github.io/chatapplication/](https://gotsira.github.io/chatapplication/) |
-| [Chess Game](https://github.com/kwanwantku/chessgame) | Kwanwan | none |
-| [Course Feedback](https://github.com/guitarpawat/course-feedback) | Pawat, Noppawan | Excellent technology description in [Project README.md](https://github.com/guitarpawat/course-feedback/blob/master/README.md)  |
+| [Brick Breaker](https://github.com/neung123/brick-breaking) | Thanapoom, Pornpavee | Game | [https://goo.gl/uPzZRb](https://goo.gl/uPzZRbt) |
+| [Chasing Game](https://github.com/KameriiJ/Chasing-game-SKE) | Gunthee, Korawit | Game | [https://docs.google.com/document/d/1wORGAy7T2NfnuGj7UI7EB70rBC1FRlKHEFbLiJGliIA/edit?usp=sharing](https://docs.google.com/document/d/1wORGAy7T2NfnuGj7UI7EB70rBC1FRlKHEFbLiJGliIA/edit?usp=sharing) |
+| [Cosmetics Information](https://github.com/Thaksina/Project) | Thaksina, Pichaaun | Utility | none |
+| [Destiny Draw](https://github.com/thanakritfluk/Destiny-Draw) | Piyaphol, Thanakrit | Game | [https://docs.google.com/document/d/1AlQGSr7rI6OgBuwNNuaYBpezRLtXHgIgMjm09xVplC4/edit](https://docs.google.com/document/d/1AlQGSr7rI6OgBuwNNuaYBpezRLtXHgIgMjm09xVplC4/edit) |
+| [Find the Exit]()| Patompong, Kullanit | Game | [https://drive.google.com/open?id=0B1vabgqqxjz3SlRfdUM0M3U5cWM](https://drive.google.com/open?id=0B1vabgqqxjz3SlRfdUM0M3U5cWM)  |
 | [Health Me](https://github.com/nottpty/healthme) | Patinya, Narut | Documentation in README.md |
 | [Menu](https://github.com/csupisara/MenuProject) | Supisara, Sathira | [https://csupisara.github.io/MenuProject/](https://csupisara.github.io/MenuProject/) |
 | [Movie Ticket](https://github.com/hereton/MovieTicket) | Wongsathorn, Totsapon | Documentation in README.md |
